@@ -1,0 +1,30 @@
+.header {
+    background-color: yellow;
+    height: 80px;
+    margin-bottom: 10px;
+}
+
+.corpo {
+    background-color: #985f0d;
+    margin-bottom: 15px;
+}
+
+.menu {
+    background-color: graytext;
+}
+
+.conteudo {
+    background-color: #9acfea;
+}
+
+.container-conteudo {
+    margin-left: 10px;
+}
+
+.footer {
+    background-color: #e4b9c0;
+}
+
+.footer-esquerda {
+    text-align: right;
+}
