@@ -1,0 +1,11 @@
+a.btn-roxo:hover{
+    background-color: purple;
+}
+
+a.btn-roxo:active{
+    background-color: red;
+}
+
+.red{
+    color:red;
+}
